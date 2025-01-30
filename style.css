@@ -34,13 +34,13 @@
   
         .text2 { 
             font-size: 30px; 
-            color: indigo; 
+            color: black; 
             font-family: Georgia, serif; 
         } 
   
         @keyframes text { 
             0% { 
-                color: indigo; 
+                color: black; 
                 margin-bottom: -40px; 
             } 
   
